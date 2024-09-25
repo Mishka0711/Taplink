@@ -1,4 +1,4 @@
-# Taplink-starter
+# Taplink_starter
 
 Стартовый шаблон для верстки очередного проекта
 
